@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379958465664",
+    "project_id": "socialloginwithfirebase-c583b",
+    "storage_bucket": "socialloginwithfirebase-c583b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379958465664:android:d5fcbab1ff4940f7d30265",
+        "android_client_info": {
+          "package_name": "com.example.socialauthwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379958465664-4v57bs9gs3t88u6bk4v9flvfd90cvrjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYrIKlN1ix1G6467H9HIajjXzAg5bqXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379958465664-4v57bs9gs3t88u6bk4v9flvfd90cvrjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
