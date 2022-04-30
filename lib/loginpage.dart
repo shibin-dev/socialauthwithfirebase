@@ -19,6 +19,11 @@ class LoginPage extends StatelessWidget {
               text: "Sign up with Google",
               onPressed: authProvider.googleLogin,
             ),
+            SignInButton(
+              Buttons.Facebook,
+              text: "Sign up with Facebook",
+              onPressed: authProvider.googleLogin,
+            ),
           ],
         ),
       ),
